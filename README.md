@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed and I'm a Backend Developer, from Cairo</h2>
+<h2 align="left">Backend Developer specializing in PHP and Laravel with solid experience in building, optimizing, and maintaining scalable web applications.</h2>
 
 ###
 
